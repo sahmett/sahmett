@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **YetGenAkbankBackendEgitimi**
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently learning **.Net & Java**
 
 - 📫 How to reach me **seyyitahmet.kilic@gmail.com**
 
