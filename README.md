@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seyyit Ahmet</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h3 align="center">Lifelong learner. I use technology that helps me.</h3>
 
 - 🔭 I’m currently working on **YetGenAkbankBackendEgitimi**
 
