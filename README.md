@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seyyit Ahmet</h1>
 <h3 align="center">Lifelong learner. I use technology that helps me.</h3>
 
-<p> As a young engineer, I focused on gaining experience in many fields in order to develop my skill set and gain different perspectives during my education process. In this direction, my efforts to get to know different disciplines and sectors such as education, magazine publishing, food, software, power electronics, R&D, aerospace, automotive, artificial intelligence, optimisation have given me valuable skills and different stories such as productivity, problem solving, quick adaptation to the team, openness to learning, adaptability.
-
-During and after my undergraduate education, I strengthened my skills by participating in various projects in software development and artificial intelligence. As an engineer concentrating on solving problems with software and artificial intelligence, I aim to gain deep expertise in this field and build a meaningful career.</p>
+<p>During and after my undergraduate education, I strengthened my skills by participating in various projects in software development and artificial intelligence. As an engineer concentrating on solving problems with software and artificial intelligence, I aim to gain deep expertise in this field and build a meaningful career.</p>
 
 - 🔭 I’m currently working on **YetGenAkbankBackendEgitimi**
 
