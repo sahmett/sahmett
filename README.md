@@ -2,9 +2,10 @@
 <h3 align="left">Lifelong learner. I use technology that helps me.</h3>
 I strengthened my skills by participating in various projects in software development and artificial intelligence. As an engineer concentrating on solving problems with software and artificial intelligence, I aim to gain deep expertise in this field and build a meaningful career.
 
-🔭 I’m currently working on YetGenAkbankBackendEgitimi & Study Timer Cosmos & Quiz Mingle
 
-🌱 I’m currently learning .Net & Java
+🔭 I’m currently working on [YetGenAkbankBackendEgitimi](https://github.com/sahmett/YetGenAkbankBackendEgitimi) & [Cosmos Study Timer](https://github.com/ozgedincer/StudyTimerCosmos) & Quiz Mingle
+
+🌱 I’m currently learning .Net 
 
 📫 How to reach me seyyitahmet.kilic@gmail.com
 
