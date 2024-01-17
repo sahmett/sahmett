@@ -3,7 +3,9 @@
 I strengthened my skills by participating in various projects in software development and artificial intelligence. As an engineer concentrating on solving problems with software and artificial intelligence, I aim to gain deep expertise in this field and build a meaningful career.
 
 
-🔭 I’m currently working on [EduTrack](https://github.com/sahmett/EduTrack)  [YetGenAkbankBackendEgitimi](https://github.com/sahmett/YetGenAkbankBackendEgitimi) & [Cosmos Study Timer](https://github.com/ozgedincer/StudyTimerCosmos) & Quiz Mingle
+🔭 I’m currently working on [EduTrack](https://github.com/sahmett/EduTrack) 
+& [YetGenAkbankBackendEgitimi](https://github.com/sahmett/YetGenAkbankBackendEgitimi)
+& [Cosmos Study Timer](https://github.com/ozgedincer/StudyTimerCosmos) & Quiz Mingle
 
 🌱 I’m currently learning .Net 
 
