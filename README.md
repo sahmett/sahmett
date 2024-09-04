@@ -7,7 +7,7 @@ I strengthened my skills by participating in various projects in software develo
 & [YetGenAkbankBackendEgitimi](https://github.com/sahmett/YetGenAkbankBackendEgitimi)
 & [Cosmos Study Timer](https://github.com/ozgedincer/StudyTimerCosmos) & Quiz Mingle
 
-🌱 I’m currently learning .Net 
+🌱 I’m currently learning .Net & [Clean Code - Akın Kaldiroglu ](https://www.udemy.com/course/temiz-kod/) 
 
 📫 How to reach me seyyitahmet.kilic@gmail.com
 
