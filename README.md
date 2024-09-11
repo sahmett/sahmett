@@ -4,7 +4,6 @@ I strengthened my skills by participating in various projects in software develo
 
 
 🔭 I’m currently working on [EduTrack](https://github.com/sahmett/EduTrack) 
-& [YetGenAkbankBackendEgitimi](https://github.com/sahmett/YetGenAkbankBackendEgitimi)
 & [Cosmos Study Timer](https://github.com/ozgedincer/StudyTimerCosmos) & Quiz Mingle
 
 🌱 I’m currently learning .Net & [Clean Code - Akın Kaldiroglu ](https://www.udemy.com/course/temiz-kod/) 
