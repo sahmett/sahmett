@@ -10,5 +10,4 @@ I strengthened my skills by participating in various projects in software develo
 
 
 🔭 I’m currently working on Trading Bot with Binance API 
-🌱 I’m currently learning [Clean Code - Akın Kaldiroglu ](https://www.udemy.com/course/temiz-kod/) 
-🌱 I’m currently learning [Design Patterns - Akın Kaldiroglu ](https://www.udemy.com/course/designpatterns) 
+🌱 I’m currently learning [Clean Code - Akın Kaldiroglu ](https://www.udemy.com/course/temiz-kod/) & [Design Patterns - Akın Kaldiroglu ](https://www.udemy.com/course/designpatterns) 
