@@ -8,6 +8,5 @@
 <h3 align="left">Lifelong learner. I use technology that helps me.</h3>
 I strengthened my skills by participating in various projects in software development and artificial intelligence. As an engineer concentrating on solving problems with software and artificial intelligence, I aim to gain deep expertise in this field and build a meaningful career.
 
-
-🔭 I’m currently working on Trading Bot with Binance API 
+🔭 I’m currently working on Trading Bot with Binance API. 
 🌱 I’m currently learning [Clean Code - Akın Kaldiroglu ](https://www.udemy.com/course/temiz-kod/) & [Design Patterns - Akın Kaldiroglu ](https://www.udemy.com/course/designpatterns) 
