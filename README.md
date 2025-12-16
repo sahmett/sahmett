@@ -4,6 +4,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=sahmett&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahmett&theme=dark&hide_border=false)<br/>
 [![](https://visitcount.itsvg.in/api?id=sahmett&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <h3 align="left">Lifelong learner. I use technology that helps me.</h3>
 I strengthened my skills by participating in various projects in software development and artificial intelligence. As an engineer concentrating on solving problems with software and artificial intelligence, I aim to gain deep expertise in this field and build a meaningful career.
