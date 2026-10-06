@@ -1,7 +1,27 @@
+### Hi, I'm Seyyit Ahmet 👋
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+Software engineer at [@DocPlanner](https://github.com/DocPlanner), based in Istanbul.
+Backend roots in C# / .NET; these days I also build calm mobile apps and tools for AI-assisted development.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sahmett&theme=dark&hide_border=false)<br/>
-[![](https://visitcount.itsvg.in/api?id=sahmett&icon=0&color=1)](https://visitcount.itsvg.in)
-<h3 align="left">Lifelong learner. I use technology that helps me.</h3>
-I strengthened my skills by participating in various projects in software development and artificial intelligence. As an engineer concentrating on solving problems with software and artificial intelligence, I aim to gain deep expertise in this field and build a meaningful career.
+**2026 so far:** 917 commits across 14 personal repos · ~250K lines of code · 6.5B tokens processed / 22M generated with Claude Code (since June)
+
+**Now**
+
+- 🫙 **[Plop](https://sahmett.github.io/plop-site/)**: a calm focus timer where a jar fills drop by drop as you focus. Offline-first, no data collection. Flutter, iOS & Android. The first product of *Plop Studio*.
+- 🧭 **[redesign-director](https://github.com/sahmett/redesign-director-skills)**: a Claude Code skill that runs a principle- and evidence-grounded UI/UX redesign, screen by screen, with every state and versioned ADRs.
+
+**Earlier work**
+
+| Project | What it is |
+|---|---|
+| [OrderTrack](https://github.com/sahmett/OrderTrack) | Customer & order microservices behind an API gateway, with CQRS |
+| [DoctorTrack](https://github.com/sahmett/DoctorTrack) | .NET Web API for doctor schedules, appointment slots and CSV export |
+| [EduTrack](https://github.com/sahmett/EduTrack) | Web platform for courses and course content |
+| [serial-port-terminal](https://github.com/sahmett/serial-port-terminal) | Serial port terminal in C# |
+
+**Writing** (Turkish, on [Medium](https://medium.com/@seyyitahmet.kilic))
+
+- [Tarayıcının adres satırına bir URL yazıp ENTER'a bastığınızda ne olur?](https://medium.com/@seyyitahmet.kilic/taray%C4%B1c%C4%B1n%C4%B1n-adres-sat%C4%B1r%C4%B1na-bir-url-yaz%C4%B1p-entera-bast%C4%B1%C4%9F%C4%B1n%C4%B1zda-ne-olur-ba72d3daf798)
+- [Mühendislerin Takip Etmesi Gereken +50 YouTube Kanalı](https://medium.com/@seyyitahmet.kilic/elektrik-elektronik-m%C3%BChendislerinin-takip-etmesi-gereken-50-youtube-kanal%C4%B1-cdfe8599cccb)
+
+**Stack:** C# · .NET · TypeScript · Dart / Flutter · Python · PostgreSQL · Docker
